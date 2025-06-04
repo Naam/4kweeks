@@ -85,6 +85,12 @@ jane_smith_4000_weeks.png
 
 ---
 
+## Example
+
+![John Doe - Example](/assets/John_Doe_4000_weeks.png)
+
+---
+
 ## Credits
 
 This project was inspired by the ideas presented in Oliver Burkeman's book _Four Thousand Weeks: Time Management for Mortals_ — particularly the concept of visualizing a human lifespan in weeks to bring clarity and intentionality to how we use our time.
