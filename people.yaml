@@ -1,0 +1,5 @@
+John Doe:
+  - birthdate: "2001-01-01"
+  - events:
+      "2018-01-01": "Officially an adult"
+      "2023-05-05": "Graduated"
